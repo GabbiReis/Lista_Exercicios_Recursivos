@@ -1,0 +1,8 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\bin\Debug\Curva1.exe.config
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\bin\Debug\Curva1.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\bin\Debug\Curva1.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\obj\Debug\Curva1.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\obj\Debug\Curva1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\obj\Debug\Curva1.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\obj\Debug\Curva1.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\CurvasDeRecursão\Curva1\obj\Debug\Curva1.pdb
